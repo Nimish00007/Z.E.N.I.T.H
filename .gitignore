@@ -1,0 +1,22 @@
+# secrets
+.env
+credentials.json
+token.json
+
+# build / packed outputs
+build/
+*.pkg
+*.spec
+
+# large binaries & audio
+llm for sound/bin/
+*.exe
+*.wav
+
+# caches
+__pycache__/
+*.pyc
+
+# Office, builds
+*.docx
+*.pptx
