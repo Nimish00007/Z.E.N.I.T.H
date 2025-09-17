@@ -20,3 +20,8 @@ __pycache__/
 # Office, builds
 *.docx
 *.pptx
+.env
+credentials.json
+credentials_temp.json
+token.json
+
